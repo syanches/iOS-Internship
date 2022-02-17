@@ -75,6 +75,11 @@ let square = Square(sideLength: 10)
 
 let shapes: [Shape] = [square, circle, triangle]
 
+var fullPerimeter: Double = 0
+
 for i in shapes {
     print(i.description)
+    fullPerimeter += i.getPerimeter()
 }
+
+print("\nThe total perimeter of all shapes is \(String(format: "%.2f", fullPerimeter))")
