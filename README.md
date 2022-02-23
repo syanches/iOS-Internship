@@ -12,4 +12,4 @@
 
 ### Занятие #3
 1. [SRPViewController](https://github.com/syanches/iOS-Internship/blob/main/SRPViewController%233.playground/Contents.swift)
-2. CardView
+2. [Name and Email Validation VC](https://github.com/syanches/iOS-Internship/blob/main/ValidationExample/ValidationExample/ViewController.swift)
