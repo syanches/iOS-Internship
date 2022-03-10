@@ -59,7 +59,7 @@ class ValidationCardView: UIView {
         return label
     }()
     
-    public func configureView() {
+    private func configureView() {
         backgroundColor = .systemBackground
         addSubview(validationCardView)
         validationCardView.addSubview(validationTextField)
