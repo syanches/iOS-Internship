@@ -19,3 +19,6 @@
 
 ### Занятие #7
 1. [MusicTableView Expandable](https://github.com/syanches/iOS-Internship/tree/main/MusicTableView/MusicTableView)
+
+### Занятие #8
+1. [TableView with editing](https://github.com/syanches/iOS-Internship/tree/main/TableViewWithEditing/TableViewWithEditing)
