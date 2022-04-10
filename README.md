@@ -16,3 +16,6 @@
 
 ### Занятие #5 
 1. [UIKit example](https://github.com/syanches/iOS-Internship/tree/main/UIKitExample/UIKitExample)
+
+### Занятие #7
+1. [MusicTableView Expandable](https://github.com/syanches/iOS-Internship/tree/main/MusicTableView/MusicTableView)
